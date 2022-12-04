@@ -1,7 +1,6 @@
 'use strict';
 
 const slides = document.querySelectorAll('.slider__item');
-const slider = document.querySelectorAll(`.slider`);
 const btnLeft = document.querySelector('.slider__button--prev');
 const btnRight = document.querySelector('.slider__button--next');
 const SLIDES_VISIBLE_AMOUNT = 5;
